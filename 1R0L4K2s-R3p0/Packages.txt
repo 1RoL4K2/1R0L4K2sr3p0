@@ -1,0 +1,35 @@
+Package: com.saurik.afc2d_1.2_iphoneos-arm
+Name: AFC2 (Apple File Conduit 2)
+Version: 1.2
+Architectecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik)
+Depends: firmware (>=6.0)
+Filename: debs/com.saurik.afc2d_1.2_iphoneos-arm.deb
+Size: 18
+Description: Allows full filesystem access via USB (to use SSH, you must download OpenSSH in the main menu)
+Section: Utilities
+Author: Jay Freeman (saurik)
+
+Package: com.heaveniphone.ifileosios_1.8.1-1_iphoneos-arm
+Name: iFile
+Version: 1.8.1-1
+Architectecture: iphoneos-arm
+Maintainer: Filippo Bigarella
+Depends: firmware (>=6.0)
+Filename: debs/com.heaveniphone.ifileosios_1.8.1-1_iphoneos-arm.deb
+Size: 7067
+Description: Full file manager for iOS
+Section: Utilities
+Author: Filippo Bigarella
+
+Package: ai.akemi.appsyncunified_116.0_iphoneos-arm.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a
+Name: AppSync Unified
+Version: 116.0
+Architectecture: iphoneos-arm
+Maintainer: Karen/evad3rs
+Depends: firmware (>=6.0)
+Filename: debs/ai.akemi.appsyncunified_116.0_iphoneos-arm.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
+Size: 51
+Description: Allows installation of unsigned apps
+Section: Utilities
+Author: Karen

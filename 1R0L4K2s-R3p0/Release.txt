@@ -1,0 +1,8 @@
+Origin: 1RoL4K2
+Label: 1R0L4K2sr3p0
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: tt:ogyrec1337o_0
